@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm shrey choudhary</h1>
 <h3 align="center">A boy trying to explore things!!</h3>
 <div   style="display: flex;">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-      <img src="https://user-images.githubusercontent.com/101063354/167688689-ccf46f05-dbef-4b8c-97c9-dfe4bdf9855c.jpg" height="400" width="450" >
-      <img src="https://user-images.githubusercontent.com/101063354/167689814-c2e6afca-600b-4c1e-8a71-8827e9c48979.jpg" height="400" width="450">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img src="https://user-images.githubusercontent.com/101063354/167688689-ccf46f05-dbef-4b8c-97c9-dfe4bdf9855c.jpg" height="400" width="250" >
+      <img src="https://user-images.githubusercontent.com/101063354/167689814-c2e6afca-600b-4c1e-8a71-8827e9c48979.jpg" height="400" width="250">
 </div>
 <br>
 
