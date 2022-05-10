@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm shrey choudhary</h1>
 <h3 align="center">A boy trying to explore things!!</h3>
+<div   style="display: flex;">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      <img src="https://user-images.githubusercontent.com/101063354/167688689-ccf46f05-dbef-4b8c-97c9-dfe4bdf9855c.jpg" height="400" width="450" >
+      <img src="https://user-images.githubusercontent.com/101063354/167689814-c2e6afca-600b-4c1e-8a71-8827e9c48979.jpg" height="400" width="450">
+</div>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreychoudhary07&label=Profile%20views&color=0e75b6&style=flat" alt="shreychoudhary07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreychoudhary07" alt="shreychoudhary07" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><center><img src="https://github-profile-trophy.vercel.app/?username=shreychoudhary07" alt="shreychoudhary07" /></a></center>
 
 - 🔭 I’m currently working on **Hostel Mess management system**
 
@@ -17,8 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/chdry_shrey007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chdry_shrey007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shreychoudhary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreychoudhary01" height="30" width="40" /></a>
+  <a href="https://fb.com/profile.php?id=100008955693293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008955693293" height="48" width="48" /></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/chdry_shrey007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chdry_shrey007" height="48" width="48" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.hackerrank.com/shreychoudhary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreychoudhary01" height="48" width="48" /></a>
+  <a href="mailto:shreychoudhary034@gmail.com">
+    <img align="left" alt="Shrey Choudhary | Gmail" width="48px" height="48px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
