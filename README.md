@@ -11,7 +11,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><center><img src="https://github-profile-trophy.vercel.app/?username=shreychoudhary07" alt="shreychoudhary07" /></a></center>
 
-- 🔭 I’m currently working on **Hostel Mess management system**
+- 🔭 I’m currently working on **Power Bi**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
